@@ -10,7 +10,7 @@ Step 3. Go to https://github.com/adafruit/Adafruit_CircuitPython_PN532 and downl
 
 Step 4. Download a copy of the pn532_readwrite_mifare.py from this repo and also put it on your Raspberry Pi Pico. 
 
-Step 5. Wire up your NFC532 hat to Pico using Pin Layout from here.
+Step 5. Wire up your NFC532 hat to Pico using Pin Layout from here. https://www.raspberrypi-spy.co.uk/2021/01/pi-pico-pinout-and-power-pins/#prettyPhoto
 
   NFC Hat Pin       Pico
   Gnd -------->     Gnd
