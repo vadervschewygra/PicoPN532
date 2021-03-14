@@ -12,10 +12,11 @@ Step 4. Download a copy of the pn532_readwrite_mifare.py from this repo and also
 
 Step 5. Wire up your NFC532 hat to Pico using Pin Layout from here. https://www.raspberrypi-spy.co.uk/2021/01/pi-pico-pinout-and-power-pins/#prettyPhoto
 
-  NFC Hat Pin       Pico
-  Gnd -------->     Gnd
-  5v5 -------->     VBUS
-  RX  -------->     GP5
-  TX  -------->     GP4
+NFC Hat Pin to Pico
+
+|Gnd to Gnd|
+|5v5 to VBUS|
+|RX  to GP5|
+|TX  to GP4|
   
 Run Code from Thony it will take awhile for the code to show but should now work.:-)
